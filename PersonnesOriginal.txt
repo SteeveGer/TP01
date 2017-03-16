@@ -1,0 +1,7 @@
+Pierre;1;3;12;5
+Joséphine;2;
+Jacques;6;7;
+Jean
+Charles
+Catherine
+Paul

@@ -1,0 +1,12 @@
+1;Train électrique;120
+2;Poupée Barbie;45
+3;Le tour du monde en 80 jours;15
+4;Monopoly;30
+5;Raquette de tennis;115
+6;Guitare;450
+7;Skis;600
+8;Trottinette;110
+9;Maison de poupée;80
+10;iPad;750
+11;Téléphone portable;520
+12;Abonnement fitness;530
