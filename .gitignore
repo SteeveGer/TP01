@@ -1,6 +1,9 @@
-build/classes
-nbproject
-README
-build.xml
+*.class
+
+nbproject/private/
+build/
+nbbuild/
+dist/
 manifest.mf
-!RestoreData.bat
+build.xml
+README
