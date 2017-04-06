@@ -7,3 +7,4 @@ dist/
 manifest.mf
 build.xml
 README
+target/
