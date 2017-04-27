@@ -14,7 +14,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>vue.Main</mainClass>
+              <mainClass>Main</mainClass>
             </manifest>
           </archive>
         </configuration>
@@ -290,5 +290,11 @@
             </plugin>
     </plugins>
   </build>
-
+<dependencies>
+	<dependency>
+	  <groupId>joda-time</groupId>
+	  <artifactId>joda-time</artifactId>
+	  <version>2.9.9</version>
+	</dependency>
+</dependencies>
 </project>
