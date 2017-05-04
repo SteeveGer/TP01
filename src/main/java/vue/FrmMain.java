@@ -18,7 +18,7 @@ public class FrmMain extends java.awt.Frame {
   private static final String PERSONNES = "Personnes.txt";
   private static final String CADEAUX = "Cadeaux.txt";
   private static ArrayList listePersonnes;
-  private static ArrayList listeCadeaux;
+  public static ArrayList listeCadeaux;
   
   /* Constructeur */
   public FrmMain() {
