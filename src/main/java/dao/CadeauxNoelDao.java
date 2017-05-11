@@ -9,8 +9,8 @@ import java.util.*;
  */
 public class CadeauxNoelDao {
     
-    private static ArrayList listePersonnes = new ArrayList();
-    private static ArrayList listeCadeaux = new ArrayList();
+    private static ArrayList<Personne> listePersonnes = new ArrayList();
+    private static ArrayList<Cadeau> listeCadeaux = new ArrayList();
     
     private static final String DEL_CHAMPS = ";";
     
